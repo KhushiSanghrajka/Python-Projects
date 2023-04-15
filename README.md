@@ -1,5 +1,6 @@
 # Python-Projects
 In this repository, I have uploaded the following projects:
+
 Alarm Generator
 An alarm application in python along with its GUI
 using tkinter library, that allows a user to enter a time in the 24-
